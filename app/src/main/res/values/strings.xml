@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ToDo List</string>
+    <string name="message">Just pick a goal and stick to it.</string>
+    <string name="task_1">Task 1</string>
+</resources>

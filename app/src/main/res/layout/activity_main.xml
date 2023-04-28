@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="TextView"
+            android:textSize="34sp" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/message"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/task1"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:text="@string/task_1"
+            android:textColor="@color/black" />
+
+        <Button
+            android:id="@+id/task2"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:text="Task 2"
+            android:textColor="@color/black" />
+
+        <Button
+            android:id="@+id/task3"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:text="Task 3"
+            android:textColor="@color/black" />
+
+        <Button
+            android:id="@+id/task4"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:text="Task 4"
+            android:textColor="@color/black" />
+
+        <Button
+            android:id="@+id/task5"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:text="Task 5"
+            android:textColor="@color/black" />
+
+        <Button
+            android:id="@+id/task6"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:text="Task 6"
+            android:textColor="@color/black" />
+
+        <Button
+            android:id="@+id/task7"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:text="Task 7"
+            android:textColor="@color/black" />
+
+        <Button
+            android:id="@+id/task8"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:text="Task 8"
+            android:textColor="@color/black" />
+
+
+        <Button
+            android:id="@+id/task9"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:text="Task 9"
+            android:textColor="@color/black" />
+
+        <Button
+            android:id="@+id/task10"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:text="Task 10"
+            android:textColor="@color/black" />
+
+        <Button
+            android:id="@+id/task11"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:text="Task 11"
+            android:textColor="@color/black" />
+
+
+        <Button
+            android:id="@+id/task12"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:text="Task 12"
+            android:textColor="@color/black" />
+
+        <Button
+            android:id="@+id/task13"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:text="Task 13"
+            android:textColor="@color/black" />
+
+        <Button
+            android:id="@+id/contact"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Contact Us :)" />
+
+        <TextView
+            android:id="@+id/made"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="                             Designed by Prince"
+            android:textColor="@color/purple_200"
+            android:textSize="16sp"
+            android:textStyle="bold|italic" />
+
+    </LinearLayout>
+</ScrollView>
